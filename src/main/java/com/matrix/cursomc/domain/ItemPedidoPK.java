@@ -23,8 +23,6 @@ public class ItemPedidoPK  implements Serializable{
 		return pedido;
 	}
 	
-	
-
 	public void setPedido(Pedido pedido) {
 		this.pedido = pedido;
 	}
